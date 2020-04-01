@@ -17,3 +17,6 @@
 /TenantService/TenantService.Host/bin/Debug/netcoreapp3.1
 /TenantService/TenantService.Host/Logs
 /TenantService/TenantService.Host/obj
+/AuthServer/AuthServer.Host/Properties/PublishProfiles
+/AuthServer/AuthServer.Host/bin/Release/netcoreapp3.1
+/AuthServer/AuthServer.Host/.config
